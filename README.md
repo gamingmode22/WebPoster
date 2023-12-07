@@ -1,2 +1,2 @@
-## projects
-[1.Poster](https://gamingmode22.github.io/projects/)
+## Web projects
+#project-1: [Poster Website](https://gamingmode22.github.io/projects/)
